@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **From the 6th grade i am in love with IT**
 
-![Dashboard Demo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtxb2g5NmM5NXNnZHlzcnd4cWZoaWxleHVudDFmbHY1Ymxldzl2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYbKUKZmir9y7l2dYX/giphy.gif)
+![Dashboard Demo](https://share.google/6bscniWjUtVZ4Xg1B)
 
 <p align="left">
 </p>

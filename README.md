@@ -9,8 +9,7 @@
 
 - ⚡ Fun fact **From the 6th grade i am in love with IT**
 
-
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3V0cWl4Z2E5MGx5eWwxYzJpejB2cTh1enBqOWs1OWVvM2J0eHplMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SYbKUKZmir9y7l2dYX/giphy.gif
 <p align="left">
 </p>
-![Power BI Dashboard Demo](https://media.giphy.com/media/xyz123/giphy.gif)
 

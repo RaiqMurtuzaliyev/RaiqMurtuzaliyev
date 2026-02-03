@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Raiq Murtuzaliyev</h1>
+<h3 align="center">Aspiring Financial Risk Analyst Learning-focused Aspiring Financial Risk Analyst | Data & Risk Analytics Learner</h3>
 
-<!--
-**RaiqMurtuzaliyev/RaiqMurtuzaliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **SQL, Pyhton, Excel, Statistics**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **How I’m learning Excel and Power BI Beginner mistakes in data analysis (and what I learned) Building discipline and consistency while learning analytics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **raiqmurtuzaliyev@gmail.7391**
+
+- ⚡ Fun fact **From the 6th grade i am in love with IT**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>

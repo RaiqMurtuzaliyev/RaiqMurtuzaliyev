@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raiq Murtuzaliyev</h1>
 <h3 align="center">Aspiring Financial Risk Analyst Learning-focused Aspiring Financial Risk Analyst | Data & Risk Analytics Learner</h3>
 
-- 🌱 I’m currently learning **SQL, Python, Excel, Statistics**
+- 🌱 I’m currently learning **SQL, Python, Excel, Enthusiast**
 
 - 💬 Ask me about **How I’m learning Excel and Power BI Beginner mistakes in data analysis (and what I learned) Building discipline and consistency while learning analytics**
 

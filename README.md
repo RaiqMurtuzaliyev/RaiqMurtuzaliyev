@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **How I’m learning Excel and Power BI Beginner mistakes in data analysis (and what I learned) Building discipline and consistency while learning analytics**
 
-- 📫 How to reach me **raiqmurtuzaliyev@gmail.7391**
+- 📫 How to reach me **raiqmurtuzaliyev7391@gmail.com**
 
 - ⚡ Fun fact **From the 6th grade i am in love with IT**
 

@@ -8,9 +8,9 @@
 - 📫 How to reach me **raiqmurtuzaliyev7391@gmail.com**
 
 - ⚡ Fun fact **From the 6th grade i am in love with IT**
-<p align="center"> 
+   
 ![Dashboard Demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtobHNzamxmbW9lbDdteWJ6emRrZGl3MGFtdTd0bTdoMjhwMml6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UMyvk17PIo3SiZQWju/giphy.gif width="200" height="200")
-</p>
+
 
 <p align="left">
 </p>

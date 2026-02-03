@@ -9,6 +9,6 @@
 
 - ⚡ Fun fact **From the 6th grade i am in love with IT**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>

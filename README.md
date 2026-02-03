@@ -12,3 +12,5 @@
 
 <p align="left">
 </p>
+![Power BI Dashboard Demo](https://media.giphy.com/media/xyz123/giphy.gif)
+
